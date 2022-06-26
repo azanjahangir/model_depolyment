@@ -4,3 +4,4 @@ numpy==1.22.3
 opencv_python==4.5.5.64
 tensorflow-cpu==2.8.0
 gunicorn
+streamlit
