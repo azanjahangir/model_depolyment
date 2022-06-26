@@ -1,1 +1,1 @@
-web: python app.py app:facedetect101
+web: gunicorn app:app
